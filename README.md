@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL Challenge
 
 - List the following details of each employee: employee number, last name, first name, sex, and salary.
 - List first name, last name, and hire date for employees who were hired in 1986.
